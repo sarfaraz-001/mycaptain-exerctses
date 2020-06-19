@@ -1,1 +1,1 @@
-# mycaptain-exerctses
+# mycaptain-exercises
