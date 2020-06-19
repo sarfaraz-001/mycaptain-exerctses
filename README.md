@@ -1,6 +1,6 @@
 # mycaptain-exercises
 
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>basics with css</title>
@@ -21,24 +21,3 @@
 </body>
 </html>
 
-
-.hero{
-	text-align: center;
-	font-family: 'MuseoModerno', cursive;
-
-}
-#intro{
-	font-size: 40px;
-	color: red;
-}
-
-
-
-
-
-p{
-	color: violet;
-     font-family: 'MuseoModerno', cursive;
-    font-size: 49px;
-    background-color: green;
-}
